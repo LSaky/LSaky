@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Dissel Leal
 
-<!--
-**LSaky/LSaky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Ingeniero de sistemas**
 
-Here are some ideas to get you started:
+<h3>👨‍💻 Languages</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 10px;">
+  <img style='height: 30px;' src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img style='height: 30px;' src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+  
+  <img style='height: 30px;' src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+</div>
+
+## Acerca de mí
+
+- 🎓 **Principal**: Desarrollador web
+- 📍 **Ubicación**: Bogota - Colombia   
+- 💼 **Puesto/trabajo actual**: Dispuesto a encontrar nuevos retos  
+- 🌱 **Aprendizaje actual**: Desarrollo de software, desarrollo frontend, bases de datos y dataAnalitycts  
+
+
+
